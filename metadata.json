@@ -1,0 +1,6 @@
+{
+  "name": "Vương Quốc Số Từ - Ngữ Văn 7",
+  "description": "Web game tương tác học Tiếng Việt lớp 7 (Kết nối tri thức): Lý thuyết số từ chỉ số lượng và thứ tự, 20 thử thách tương tác đa dạng, bài tập vận dụng thực tế và hệ thống điểm thưởng chibi đáng yêu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
